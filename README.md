@@ -37,19 +37,19 @@ https://www.kaggle.com/datasets/jellalkami/creditcard-dataset
 
 5. Model Training
 The following models were implemented:
-i. Naïve Bayes
-ii. Decision Tree
-iii. Logistic Regression
+- Naïve Bayes
+-  Decision Tree
+-   Logistic Regression
 Each model was trained on the training dataset and tested on unseen data.
 
 ## 📊 Model Evaluation
 Models were evaluated using:
-a. Accuracy
-b. Precision
-c. Recall
-d. F1-Score
-e. ROC-AUC Score
-f. Confusion Matrix
+- Accuracy
+- Precision
+- Recall
+- F1-Score
+- ROC-AUC Score
+- Confusion Matrix
 
 ## 🏆 Results
 1. Naïve Bayes: Fast but lower precision due to simplified assumptions
