@@ -1,4 +1,5 @@
-# 📌 Project Overview
+# Credit Card Fraud Detection
+## 📌 Project Overview
 Credit card fraud is a major issue in financial systems. This project focuses on detecting fraudulent transactions 
 using machine learning classification algorithms. The model is trained on real transaction data and evaluated using 
 multiple performance metrics to identify the most effective algorithm. 
